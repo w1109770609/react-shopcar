@@ -1,0 +1,53 @@
+[
+    {
+        "shoplist":{
+            "hosptail":"克利夫兰骑士",
+            "cid":100,
+            "selected":false,
+            "tooth":[{
+                "qid":1,
+                "name":"詹姆斯签名T恤",
+                "selected": false,
+                "price":300,
+                "num":1
+            },
+            {
+                "qid": 2,
+                "name": "勒夫球衣",
+                "selected": false,
+                "price": 1200,
+                "num": 1
+            }]
+        }
+    },
+    {
+        "shoplist": {
+            "hosptail": "休士顿火箭",
+            "cid": 101,
+            "selected": false,
+            "tooth": [
+                {
+                    "qid": 3,
+                    "name": "哈登球衣",
+                    "selected": false,
+                    "price": 300,
+                    "num": 1
+                },
+                {
+                    "qid": 4,
+                    "name": "退役球衣",
+                    "selected": false,
+                    "price": 1200,
+                    "num": 1
+                },
+                {
+                    "qid": 8,
+                    "name": "退役球衣",
+                    "selected": false,
+                    "price": 1200,
+                    "num": 1
+                }
+            ]
+        }
+    }
+]

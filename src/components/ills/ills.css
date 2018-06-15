@@ -1,0 +1,44 @@
+.content{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding: 8px 0;
+    color: #454545;
+    border-bottom: 1px solid #eee;
+}
+.content .left{
+    flex:1;
+}
+.con{
+    height:40px;
+    line-height: 40px;
+    padding-left: 10px;
+}
+.con span{
+    padding-left: 5px;
+}
+.total{
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.total div{
+    color:#DA7466
+}
+.total p{
+    padding-right: 15px;
+}
+.total p span{
+    padding: 5px 10px;
+    margin:0 2px;
+    color:#666;
+    border:1px solid #ccc;
+}
+.delete{
+    width:27px;
+    background: #FD6B3C;
+    text-align: center;
+    line-height: 40px;
+    color:#fff;
+}
